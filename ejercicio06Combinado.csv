@@ -1,0 +1,1001 @@
+Nombre de producto,Stock anterior,Tipo de operación,Variación
+Televisor 4K,1993,venta,1939
+Televisor 4K,1993,venta,1761
+Televisor 4K,1993,venta,504
+Televisor 4K,1993,compra,1080
+Televisor OLED,2435,compra,158
+Televisor OLED,2435,compra,2168
+Televisor OLED,2435,compra,337
+Televisor LED,1792,venta,43
+Televisor LED,1792,compra,1745
+Televisor LED,1792,venta,66
+Proyector 4K,182,compra,739
+Proyector portátil,1165,venta,2595
+Proyector portátil,1165,venta,490
+Proyector portátil,1165,compra,2173
+Proyector portátil,1165,venta,156
+Proyector portátil,1165,venta,1010
+Reproductor Blu-ray,291,compra,107
+Reproductor Blu-ray,291,venta,1813
+Reproductor Blu-ray,291,venta,632
+Grabador de DVD,362,venta,694
+Grabador de DVD,362,venta,1371
+Home theater,1571,venta,982
+Home theater,1571,compra,1848
+Home theater,1571,compra,2251
+Barra de sonido,1402,compra,1481
+Barra de sonido,1402,compra,2232
+Altavoz Bluetooth,303,venta,1497
+Altavoz Bluetooth,303,compra,1432
+Altavoz Bluetooth,303,venta,369
+Altavoz inteligente,2019,compra,2101
+Altavoz inteligente,2019,compra,1286
+Altavoz inteligente,2019,venta,2469
+Altavoz inteligente,2019,venta,2510
+Altavoz inteligente,2019,compra,2246
+Altavoz inteligente,2019,venta,581
+Auriculares inalámbricos,244,venta,2112
+Auriculares inalámbricos,244,compra,936
+Auriculares inalámbricos,244,venta,556
+Auriculares inalámbricos,244,venta,2533
+Auriculares con cancelación de ruido,2023,venta,2378
+Auriculares con cancelación de ruido,2023,venta,309
+Micrófono USB,1182,venta,390
+Micrófono USB,1182,venta,871
+Micrófono USB,1182,compra,1907
+Micrófono de condensador,827,compra,1505
+Micrófono de condensador,827,compra,1936
+Mesa de mezclas,1125,compra,517
+Mesa de mezclas,1125,venta,521
+Mesa de mezclas,1125,compra,984
+Mesa de mezclas,1125,venta,2508
+Mesa de mezclas,1125,venta,2361
+Amplificador de audio,1838,venta,1073
+Amplificador de audio,1838,venta,1346
+Placa de sonido,1604,compra,121
+Placa de sonido,1604,compra,1959
+Placa de sonido,1604,venta,2340
+Placa de sonido,1604,compra,2573
+Placa de sonido,1604,venta,511
+Sistema de sonido envolvente,469,venta,1727
+Cables HDMI,1026,compra,884
+Cables HDMI,1026,venta,1151
+Cables HDMI,1026,venta,2616
+Cables HDMI,1026,compra,1394
+Cables HDMI,1026,compra,1484
+Cables HDMI,1026,compra,843
+Cables opticos,1688,compra,170
+Cables opticos,1688,compra,1683
+Cables opticos,1688,compra,2271
+Cables opticos,1688,venta,1446
+Adaptador de HDMI a VGA,1468,compra,1268
+Adaptador de HDMI a VGA,1468,venta,1493
+Adaptador de HDMI a VGA,1468,venta,808
+Adaptador de HDMI a VGA,1468,venta,1253
+Adaptador de HDMI a VGA,1468,venta,2190
+Adaptador de HDMI a VGA,1468,venta,698
+Soporte para televisor,2384,venta,205
+Soporte para televisor,2384,compra,607
+Soporte para televisor,2384,compra,1484
+Soporte para televisor,2384,compra,1077
+Soporte para televisor,2384,compra,371
+Control remoto universal,1870,venta,779
+Control remoto universal,1870,venta,305
+Repetidor de señal WiFi,714,compra,1755
+Repetidor de señal WiFi,714,venta,1040
+Repetidor de señal WiFi,714,compra,2205
+Router inalámbrico,730,venta,71
+Router inalámbrico,730,compra,1764
+Router inalámbrico,730,venta,422
+Módem 4G,238,compra,2433
+Módem 4G,238,venta,1094
+Módem 4G,238,compra,754
+Módem 4G,238,venta,2390
+Smartphone,1432,compra,2343
+Smartphone resistente al agua,2455,venta,889
+Smartphone resistente al agua,2455,compra,120
+Smartphone resistente al agua,2455,venta,338
+Smartphone resistente al agua,2455,compra,830
+Smartphone resistente al agua,2455,compra,1204
+Smartphone resistente al agua,2455,venta,690
+Tablet,1379,venta,2344
+E-readers,998,compra,1991
+E-readers,998,venta,630
+E-readers,998,compra,2273
+E-readers,998,venta,1391
+E-readers,998,venta,2079
+E-readers,998,compra,1939
+E-readers,998,compra,2090
+Smartwatch,642,compra,1781
+Smartwatch,642,compra,337
+Smartwatch,642,venta,2141
+Smartwatch,642,venta,793
+Smartwatch,642,venta,689
+Pulsera de actividad,680,compra,138
+Pulsera de actividad,680,compra,60
+Pulsera de actividad,680,venta,2623
+Cámara digital réflex,2547,compra,934
+Cámara sin espejo,1873,compra,2358
+Cámara sin espejo,1873,venta,1450
+Cámara sin espejo,1873,compra,2098
+Cámara sin espejo,1873,compra,612
+Cámara sin espejo,1873,venta,1113
+Cámara sin espejo,1873,compra,2488
+Cámara sin espejo,1873,compra,415
+Cámara compacta,2463,compra,425
+Cámara de acción,131,compra,2606
+Cámara de acción,131,compra,1911
+Dron,1459,venta,1845
+Dron,1459,venta,750
+Dron,1459,compra,502
+Gimbal para cámaras,835,venta,1154
+Gimbal para cámaras,835,venta,1852
+Trípode,1157,compra,786
+Trípode,1157,venta,927
+Lente para cámaras,666,venta,1218
+Lente para cámaras,666,venta,1115
+Filtro de cámara,1603,compra,1622
+Filtro de cámara,1603,venta,329
+Filtro de cámara,1603,compra,1905
+Filtro de cámara,1603,venta,535
+Filtro de cámara,1603,compra,969
+Filtro de cámara,1603,compra,1404
+Estabilizador de imagen,576,venta,843
+Estabilizador de imagen,576,venta,141
+Estabilizador de imagen,576,venta,1482
+Estabilizador de imagen,576,venta,911
+Tarjeta de memoria SD,2049,compra,1396
+Tarjeta de memoria SD,2049,venta,295
+Tarjeta de memoria SD,2049,compra,27
+Tarjeta de memoria SD,2049,compra,1449
+Disco duro externo,2463,compra,806
+Disco duro externo,2463,compra,1450
+Disco duro externo,2463,compra,1484
+Disco duro externo,2463,compra,688
+Disco duro externo,2463,compra,541
+Pendrive,434,compra,1993
+Pendrive,434,venta,187
+Pendrive,434,compra,411
+Pendrive,434,venta,657
+Almacenamiento en la nube,2496,compra,1004
+Almacenamiento en la nube,2496,compra,1940
+Almacenamiento en la nube,2496,venta,2201
+Almacenamiento en la nube,2496,venta,981
+Almacenamiento en la nube,2496,compra,1430
+Almacenamiento en la nube,2496,venta,595
+Monitores para computadora,387,venta,2150
+Monitores para computadora,387,venta,1803
+Monitores para computadora,387,venta,842
+Monitores para computadora,387,compra,623
+Monitores para computadora,387,venta,794
+Monitores para computadora,387,compra,160
+Monitores para computadora,387,venta,382
+Monitores para computadora,387,compra,2083
+Monitores gaming,1667,venta,2029
+Monitores gaming,1667,compra,2129
+Monitores gaming,1667,compra,2319
+Monitores gaming,1667,venta,414
+Soporte para monitor,1278,venta,1815
+Soporte para monitor,1278,venta,1875
+Soporte para monitor,1278,compra,286
+PC de escritorio,1870,compra,2060
+Laptop,1088,compra,2436
+Laptop,1088,venta,1893
+Laptop para gamers,1287,venta,2361
+Laptop para gamers,1287,venta,721
+Teclado mecánico,2555,venta,1902
+Teclado mecánico,2555,venta,769
+Teclado mecánico,2555,venta,2244
+Teclado ergonómico,2403,venta,587
+Teclado ergonómico,2403,compra,2543
+Mouse inalámbrico,856,compra,798
+Mouse inalámbrico,856,venta,1281
+Mouse inalámbrico,856,venta,926
+Mouse gamer,2493,compra,1175
+Mouse gamer,2493,venta,888
+Mouse gamer,2493,compra,2181
+Mouse gamer,2493,compra,1508
+Tarjeta gráfica,912,venta,938
+Tarjeta gráfica,912,compra,34
+Tarjeta gráfica,912,compra,2446
+Tarjeta gráfica,912,venta,1246
+Procesador,1759,venta,995
+Procesador,1759,compra,2230
+Procesador,1759,venta,2032
+Procesador,1759,compra,1182
+Procesador,1759,venta,676
+Placa madre,1853,compra,393
+Placa madre,1853,venta,696
+Placa madre,1853,compra,991
+Placa madre,1853,venta,1613
+Fuente de alimentación,1013,compra,2114
+Fuente de alimentación,1013,venta,1936
+Fuente de alimentación,1013,compra,906
+Fuente de alimentación,1013,compra,173
+Fuente de alimentación,1013,compra,1320
+Fuente de alimentación,1013,compra,2516
+Fuente de alimentación,1013,compra,588
+Fuente de alimentación,1013,venta,434
+Disipador de calor,1872,venta,1208
+Disipador de calor,1872,compra,93
+Disipador de calor,1872,compra,2085
+Disipador de calor,1872,venta,2447
+Sistema de refrigeración líquida,1175,compra,1426
+Sistema de refrigeración líquida,1175,compra,2451
+Sistema de refrigeración líquida,1175,venta,2442
+Sistema de refrigeración líquida,1175,venta,1327
+Impresora multifuncional,1743,venta,2427
+Impresora de foto,119,venta,487
+Impresora de foto,119,venta,2399
+Impresora de foto,119,compra,2549
+Escáner,2020,compra,154
+Escáner,2020,venta,2209
+Escáner,2020,compra,716
+Escáner,2020,venta,2298
+Fotocopiadora,1849,compra,2118
+Fotocopiadora,1849,compra,2469
+Fotocopiadora,1849,venta,295
+Fotocopiadora,1849,compra,1273
+Cartuchos de tinta,1552,compra,1862
+Cartuchos de tinta,1552,compra,2400
+Cartuchos de tinta,1552,compra,632
+Cartuchos de tinta,1552,venta,245
+Cartuchos de tinta,1552,venta,2259
+Cartuchos de tinta,1552,compra,1527
+Cartuchos de tinta,1552,venta,2028
+Cartuchos de tinta,1552,compra,2508
+Cartuchos de tinta,1552,compra,2437
+Cartuchos de tinta,1552,venta,1866
+Papel fotográfico,941,venta,630
+Papel fotográfico,941,venta,485
+Papel fotográfico,941,compra,1533
+Papel fotográfico,941,compra,956
+Papel fotográfico,941,compra,481
+Inversor de energía,1424,venta,761
+Batería portátil,943,venta,1678
+Batería portátil,943,venta,531
+Batería portátil,943,venta,2464
+Cargador solar,706,venta,1933
+Cargador solar,706,compra,1073
+Cargador inalámbrico,2436,compra,2407
+Cargador inalámbrico,2436,venta,1868
+Cargador inalámbrico,2436,venta,173
+Cargador inalámbrico,2436,venta,538
+Cargador inalámbrico,2436,venta,1138
+Soporte para celular,407,compra,1788
+Soporte para celular,407,compra,181
+Soporte para celular,407,venta,1932
+Soporte para celular,407,venta,1825
+Soporte para celular,407,venta,187
+Soporte para celular,407,compra,1940
+Soporte para celular,407,venta,1230
+Funda para celular,538,compra,1143
+Funda para celular,538,compra,677
+Funda para celular,538,compra,1371
+Funda para celular,538,compra,1961
+Funda para celular,538,compra,1093
+Funda para celular,538,venta,1223
+Protector de pantalla,1861,compra,2208
+Base para cargar múltiples dispositivos,43,compra,911
+Base para cargar múltiples dispositivos,43,compra,1098
+Base para cargar múltiples dispositivos,43,compra,375
+Lentes de realidad aumentada,1540,compra,416
+Lentes de realidad aumentada,1540,compra,97
+Lentes de realidad aumentada,1540,venta,2180
+Consola de videojuegos,2572,venta,1602
+Consola de videojuegos,2572,compra,144
+Consola de videojuegos,2572,venta,645
+Consola de videojuegos,2572,venta,1805
+Consola de videojuegos,2572,venta,2111
+Juegos para consola,2056,compra,121
+Juegos para consola,2056,compra,1967
+Juegos para consola,2056,compra,1054
+Juegos para consola,2056,compra,591
+Controlador de juegos,170,venta,200
+Controlador de juegos,170,compra,366
+Controlador de juegos,170,compra,2504
+Accesorios para consola,166,venta,1081
+Accesorios para consola,166,venta,1768
+Accesorios para consola,166,compra,1021
+Tarjeta de captura,1911,compra,1316
+Tarjeta de captura,1911,compra,845
+Tarjeta de captura,1911,compra,2421
+Tarjeta de captura,1911,compra,93
+VR headset,1493,venta,262
+VR headset,1493,venta,2304
+VR headset,1493,compra,1021
+Aplicaciones de streaming,355,compra,81
+Servicio de suscripción para gamers,1628,venta,543
+Servicio de suscripción para gamers,1628,compra,1672
+Software de edición de video,1764,venta,864
+Software de edición de audio,1714,compra,1481
+Software de edición de audio,1714,compra,794
+Software de edición de audio,1714,venta,451
+Antivirus,1863,venta,1992
+Antivirus,1863,venta,2026
+Antivirus,1863,compra,1065
+Antivirus,1863,compra,1727
+Cortafuegos,347,venta,1757
+Cortafuegos,347,venta,149
+Cortafuegos,347,venta,792
+Navegador web,709,compra,2587
+Navegador web,709,venta,2152
+Navegador web,709,compra,203
+Dispositivos de seguridad para el hogar,2431,venta,2561
+Dispositivos de seguridad para el hogar,2431,venta,952
+Timbre inteligente,435,venta,1637
+Timbre inteligente,435,venta,2201
+Timbre inteligente,435,compra,108
+Timbre inteligente,435,venta,635
+Timbre inteligente,435,compra,1217
+Timbre inteligente,435,venta,1618
+Timbre inteligente,435,venta,1252
+Timbre inteligente,435,compra,454
+Sensor de movimiento,406,compra,2549
+Cerradura inteligente,522,venta,764
+Cerradura inteligente,522,venta,1545
+Cerradura inteligente,522,venta,960
+Cerradura inteligente,522,compra,47
+Cerradura inteligente,522,compra,2541
+Controlador de hogar inteligente,2268,compra,1250
+Controlador de hogar inteligente,2268,compra,2325
+Termostato inteligente,877,venta,2150
+Termostato inteligente,877,compra,1960
+Termostato inteligente,877,compra,1550
+Termostato inteligente,877,compra,1965
+Termostato inteligente,877,venta,1856
+Asistente de voz,1119,compra,1111
+Asistente de voz,1119,compra,401
+Asistente de voz,1119,venta,2273
+Lámparas inteligentes,1310,compra,1173
+Lámparas inteligentes,1310,venta,251
+Enchufe inteligente,2523,compra,43
+Enchufe inteligente,2523,compra,1418
+Enchufe inteligente,2523,compra,1608
+Toma de corriente con USB,2107,venta,941
+Toma de corriente con USB,2107,compra,2147
+Multímetro digital,1701,venta,82
+Multímetro digital,1701,compra,575
+Multímetro digital,1701,compra,414
+Multímetro digital,1701,venta,98
+Osciloscopio,1613,compra,653
+Osciloscopio,1613,venta,1856
+Osciloscopio,1613,compra,1423
+Osciloscopio,1613,compra,648
+Osciloscopio,1613,compra,348
+Medidor de señal,1566,venta,377
+Medidor de señal,1566,venta,1168
+Medidor de señal,1566,compra,636
+Antena de televisión,389,compra,1610
+Antena de televisión,389,compra,702
+Antena de televisión,389,compra,1303
+Antena de televisión,389,venta,746
+Receptor satelital,2372,venta,1169
+Receptor satelital,2372,compra,2378
+Receptor satelital,2372,compra,748
+Decodificador de cable,1357,venta,2022
+Decodificador de cable,1357,venta,1911
+Decodificador de cable,1357,venta,1223
+Decodificador de cable,1357,compra,2448
+Equipos de sonido portátiles,1768,compra,816
+Equipos de sonido portátiles,1768,compra,2027
+Equipos de sonido portátiles,1768,compra,1843
+Sonido ambiental,1286,compra,1302
+Sonido ambiental,1286,compra,1920
+Sonido ambiental,1286,venta,456
+Estación de carga para dispositivos,2389,compra,1698
+Estación de carga para dispositivos,2389,venta,38
+Estación de carga para dispositivos,2389,compra,2365
+Estación de carga para dispositivos,2389,venta,1874
+Cargador para auto,1134,compra,963
+Cargador para auto,1134,compra,1403
+Cargador para auto,1134,compra,1487
+Cargador para auto,1134,venta,402
+Cargador para auto,1134,compra,514
+Controlador MIDI,1962,venta,2288
+Controlador MIDI,1962,venta,1310
+Sintetizador,224,venta,1115
+Sintetizador,224,compra,953
+Sampler,2072,compra,444
+Grabadora portátil,1006,compra,1346
+Altavoces,2428,compra,323
+Altavoces,2428,venta,685
+Altavoces,2428,compra,2131
+Control remoto para cámara,1881,venta,1368
+Control remoto para cámara,1881,compra,1685
+Control remoto para cámara,1881,compra,746
+Control remoto para cámara,1881,compra,174
+Control remoto para cámara,1881,compra,1569
+Control remoto para cámara,1881,compra,763
+Control remoto para cámara,1881,compra,2555
+Lentes de filtro polarizador,1517,venta,2608
+Lentes de filtro polarizador,1517,compra,105
+Lentes de filtro polarizador,1517,compra,2423
+Lentes de ojo de pez,2035,compra,405
+Lentes de ojo de pez,2035,compra,2180
+Lentes de ojo de pez,2035,compra,1066
+Lentes de ojo de pez,2035,venta,535
+Lentes de gran angular,499,compra,1517
+Lentes de gran angular,499,venta,1494
+Webcam,936,venta,2122
+Webcam,936,compra,1952
+Teleprompter,2408,compra,466
+Teleprompter,2408,compra,2435
+Teleprompter,2408,compra,584
+Teleprompter,2408,venta,327
+Teleprompter,2408,compra,1727
+Proyector de mini cine,184,venta,1494
+Proyector de mini cine,184,venta,979
+Proyector de mini cine,184,compra,2476
+Proyector de mini cine,184,venta,1251
+Pantalla de proyección,2181,compra,2022
+Pantalla de proyección,2181,compra,796
+Pantalla de proyección,2181,compra,130
+Antena externa,2621,compra,783
+Antena externa,2621,venta,177
+Antena externa,2621,venta,1975
+Antena externa,2621,compra,525
+Antena externa,2621,venta,933
+TV Box,1255,compra,2419
+TV Box,1255,compra,1342
+TV Box,1255,venta,329
+Reproductor de medios,2599,venta,1063
+Reproductor de medios,2599,compra,1870
+Reproductor de medios,2599,venta,2038
+Reproductor de medios,2599,compra,1685
+Soporte para tablet,2381,venta,1325
+Soporte para tablet,2381,compra,1745
+Soporte para tablet,2381,venta,232
+Soporte para tablet,2381,compra,2081
+Soporte para tablet,2381,compra,1054
+Pizarras digital,1471,venta,2493
+Pizarras digital,1471,compra,1365
+Pizarras digital,1471,compra,2298
+Pizarras digital,1471,venta,1765
+Pizarras digital,1471,compra,1579
+Pizarras interactivas,316,compra,1395
+Pizarras interactivas,316,compra,513
+Lámpara de video,1380,venta,1481
+Lámpara de video,1380,venta,2396
+Fondos fotográficos,2392,venta,860
+Fondos fotográficos,2392,compra,827
+Fondos fotográficos,2392,venta,80
+Cámaras de vigilancia IP,2365,venta,611
+Auriculares deportivos,2438,compra,1329
+Auriculares deportivos,2438,venta,580
+Auriculares deportivos,2438,venta,382
+Auriculares deportivos,2438,venta,2438
+Auriculares con cable,1158,compra,1950
+Altavoz de estantería,815,compra,1927
+Altavoz de estantería,815,compra,2019
+Altavoz de estantería,815,compra,1073
+Altavoz de estantería,815,venta,1440
+Subwoofer,1744,compra,1602
+Subwoofer,1744,venta,580
+Subwoofer,1744,venta,464
+Subwoofer,1744,compra,2474
+Subwoofer,1744,venta,972
+Subwoofer,1744,compra,1317
+Amplificador de auriculares,596,compra,1235
+Amplificador de auriculares,596,venta,1758
+Amplificador de auriculares,596,venta,2461
+Amplificador de auriculares,596,venta,1233
+Soporte para altavoces,662,compra,444
+Soporte para altavoces,662,compra,710
+Soporte para altavoces,662,venta,671
+Filtros de audio,511,venta,2243
+Filtros de audio,511,compra,2135
+Filtros de audio,511,venta,251
+Mezcladora de video,1094,compra,1653
+Mezcladora de video,1094,venta,451
+Mezcladora de video,1094,compra,1316
+Luces LED para video,1473,venta,537
+Luces LED para video,1473,venta,1715
+Reflectores,718,venta,1130
+Reflectores,718,venta,2383
+Reflectores,718,venta,413
+Reflectores,718,compra,1780
+Reflectores,718,compra,616
+Kit de micrófono para smartphone,175,venta,1898
+Kit de micrófono para smartphone,175,compra,909
+Kit de micrófono para smartphone,175,compra,2459
+Dispositivo de transferencia de video,1230,compra,130
+Dispositivo de transferencia de video,1230,compra,383
+Dispositivo de transferencia de video,1230,venta,1965
+Adaptador de audio,955,venta,1375
+Adaptador de audio,955,compra,1367
+Adaptador de audio,955,compra,1785
+Adaptador de audio,955,venta,2127
+Disco duro interno,640,venta,1224
+Disco duro interno,640,venta,1867
+Disco duro interno,640,compra,1360
+Disco duro interno,640,compra,1967
+Disco duro interno,640,venta,136
+Monitores de in-ear,176,compra,79
+Monitores de in-ear,176,compra,163
+Monitores de in-ear,176,venta,1751
+Monitores de in-ear,176,compra,1007
+Monitores de in-ear,176,compra,737
+Proyector de bolsillo,579,compra,1275
+Proyector de bolsillo,579,venta,2608
+Proyector de bolsillo,579,compra,1947
+Proyector de bolsillo,579,compra,2054
+Proyector de bolsillo,579,compra,410
+Tarjeta de sonido externa,820,compra,559
+Tarjeta de sonido externa,820,compra,1641
+Tarjeta de sonido externa,820,compra,2368
+Tarjeta de sonido externa,820,venta,2135
+Cajón de subwoofer,360,venta,1273
+Cajón de subwoofer,360,compra,672
+Cajón de subwoofer,360,venta,1818
+Decodificador,1406,compra,1967
+Decodificador,1406,compra,932
+Decodificador,1406,venta,263
+Decodificador,1406,venta,2609
+Conexión de fibra óptica,2422,venta,2013
+Conexión de fibra óptica,2422,venta,224
+Conexión de fibra óptica,2422,venta,2245
+Conexión de fibra óptica,2422,compra,1076
+Pantalla curva,878,venta,2320
+Pantalla curva,878,compra,619
+Pantalla curva,878,compra,1583
+Receptor Bluetooth,166,venta,1413
+Receptor Bluetooth,166,compra,312
+Receptor Bluetooth,166,venta,1041
+Receptor Bluetooth,166,venta,1799
+Receptor Bluetooth,166,venta,2509
+Parlantes de auto,243,venta,306
+Parlantes de auto,243,compra,158
+Parlantes de auto,243,compra,1536
+Parlantes de auto,243,compra,654
+Parlantes de auto,243,compra,157
+Equipos de DJ,1912,venta,1713
+Equipos de DJ,1912,venta,857
+Pleito de guitarra,1390,compra,1506
+Pleito de guitarra,1390,venta,2580
+Pleito de guitarra,1390,compra,2209
+Astas de caña para micrófono,1148,compra,1778
+Audio en red,1670,compra,208
+Audio en red,1670,venta,287
+Audio en red,1670,compra,183
+Controladores de DJ,227,compra,1762
+Controladores de DJ,227,compra,523
+Controladores de DJ,227,compra,947
+Controladores de DJ,227,venta,1970
+Controladores de DJ,227,venta,1190
+Mixer de audio,995,venta,1061
+Mixer de audio,995,venta,545
+Mixer de audio,995,compra,2541
+Mixer de audio,995,venta,1013
+Interfaces de audio,2360,compra,1636
+Interfaces de audio,2360,compra,288
+Interfaces de audio,2360,compra,795
+Interfaces de audio,2360,venta,1569
+Interfaces de audio,2360,compra,520
+Procesadores de efectos,1927,compra,920
+Procesadores de efectos,1927,compra,1548
+Procesadores de efectos,1927,compra,286
+Procesadores de efectos,1927,compra,1117
+Condensador de microfono,1892,venta,2118
+Condensador de microfono,1892,venta,88
+Condensador de microfono,1892,venta,2551
+Condensador de microfono,1892,venta,1593
+Micrófonos de solapa,2271,venta,1548
+Micrófonos de solapa,2271,compra,1829
+Amplificadores de bajo,1020,compra,715
+Amplificadores de bajo,1020,venta,699
+Amplificadores de bajo,1020,venta,787
+Amplificadores de bajo,1020,compra,156
+Amplificadores de bajo,1020,venta,2574
+Captores de audio,1503,compra,260
+Captores de audio,1503,venta,2465
+Captores de audio,1503,venta,2393
+Grabadores de campo,667,compra,448
+Grabadores de campo,667,compra,2328
+Interfaces MIDI,2129,venta,2483
+Interfaces MIDI,2129,compra,1319
+Cables XLR,2073,venta,2332
+Cables XLR,2073,venta,2151
+Cables XLR,2073,venta,1606
+Tarjeta de red,1349,venta,2099
+Tarjeta de red,1349,venta,2518
+Tarjeta de red,1349,compra,2182
+Tarjeta de red,1349,compra,2293
+Placa de expansión para PC,1185,venta,931
+Placa de expansión para PC,1185,compra,556
+Placa de expansión para PC,1185,compra,756
+Transformador de corriente,1148,venta,1893
+Transformador de corriente,1148,venta,74
+Transformador de corriente,1148,compra,1136
+Estación de conexión,1048,venta,2571
+Estación de conexión,1048,venta,2200
+Estación de conexión,1048,compra,691
+Pantalla táctil,1132,compra,1478
+Pantalla táctil,1132,venta,317
+Pantalla táctil,1132,compra,124
+Paneles solares portátiles,2102,venta,727
+Paneles solares portátiles,2102,venta,2245
+Paneles solares portátiles,2102,compra,1972
+Paneles solares portátiles,2102,compra,928
+Controladores de motor,1773,compra,1597
+Controladores de motor,1773,compra,2007
+Robots de limpieza,328,venta,936
+Robots de limpieza,328,compra,439
+Robots de limpieza,328,venta,1671
+Robots de limpieza,328,venta,1949
+Robots de limpieza,328,compra,1550
+Cámaras termográficas,2604,venta,2274
+Cámaras termográficas,2604,compra,1351
+Cámaras termográficas,2604,venta,981
+Cámaras termográficas,2604,compra,1788
+Cámaras termográficas,2604,venta,1208
+Cámaras termográficas,2604,compra,106
+Kits de robótica,183,compra,1637
+Kits de robótica,183,venta,2173
+Editores de foto,1740,compra,1028
+Editores de foto,1740,compra,423
+Editores de foto,1740,compra,163
+Editores de foto,1740,compra,928
+Editores de foto,1740,compra,480
+Sitios de suscripción de música,894,venta,591
+Sitios de suscripción de música,894,compra,29
+Altavoz portátil,1721,venta,175
+Altavoz portátil,1721,venta,1688
+Altavoz portátil,1721,compra,600
+Altavoz portátil,1721,compra,597
+Altavoz portátil,1721,compra,1263
+Reproducción de música por streaming,1658,compra,2526
+Monitores de actividad,1079,venta,587
+Monitores de actividad,1079,venta,298
+Monitores de actividad,1079,venta,127
+Controladores de movimiento,1469,compra,1676
+Accesorios para drones,237,compra,756
+Accesorios para drones,237,compra,394
+Accesorios para drones,237,venta,1867
+Accesorios para drones,237,venta,701
+Accesorios para drones,237,venta,1634
+Accesorios para drones,237,venta,2248
+Accesorios para drones,237,venta,823
+Accesorios para drones,237,compra,439
+Accesorios para drones,237,venta,2001
+Objetos conectados,2519,compra,2050
+Objetos conectados,2519,compra,2060
+Objetos conectados,2519,compra,514
+Objetos conectados,2519,venta,2433
+Lámparas de emergencia,669,compra,1232
+Placas de desarrollo,155,compra,100
+Accesorios para impresoras 3D,776,venta,563
+Accesorios para impresoras 3D,776,venta,1611
+Accesorios para impresoras 3D,776,compra,1051
+Accesorios para impresoras 3D,776,compra,2612
+Scanners 3D,42,compra,2329
+Scanners 3D,42,compra,327
+Scanners 3D,42,venta,1611
+Scanners 3D,42,venta,1134
+Scanners 3D,42,venta,1257
+Accesorios de videojuegos,910,compra,1571
+Accesorios de videojuegos,910,venta,693
+Dispositivos de realidad virtual,2023,compra,2038
+Soportes para celulares,291,venta,202
+Tarjetas gráficas externas,709,venta,2050
+Artefactos de carga rápida,947,venta,2334
+Artefactos de carga rápida,947,compra,1099
+Adaptadores USB-C,646,compra,495
+Adaptadores USB-C,646,compra,1095
+Auriculares para conferencia,1465,compra,127
+Auriculares para conferencia,1465,venta,917
+Auriculares para conferencia,1465,compra,1061
+Auriculares para conferencia,1465,venta,1549
+Auriculares para conferencia,1465,compra,1517
+Auriculares para conferencia,1465,venta,76
+Auriculares para conferencia,1465,venta,1179
+Altavoces resistentes al agua,1378,compra,202
+Altavoces resistentes al agua,1378,venta,1916
+Altavoces resistentes al agua,1378,compra,61
+Monitores de 144 Hz,2082,compra,176
+Monitores de 144 Hz,2082,compra,1464
+Monitores de 144 Hz,2082,compra,1010
+Cables de carga rápida,399,venta,1115
+Cables de carga rápida,399,venta,1081
+Cables de carga rápida,399,venta,2141
+Enchufes en strip,303,venta,1912
+Cargador de batería,699,venta,1054
+Cargador de batería,699,venta,2110
+Cargador de viaje,1704,compra,1057
+Cargador de viaje,1704,venta,1634
+Cargador de viaje,1704,venta,2111
+Lámparas de estudio,1464,compra,1528
+Lámparas de estudio,1464,compra,1392
+Lámparas de estudio,1464,venta,1493
+Equipos de sonido profesional,2465,compra,1446
+Equipos de sonido profesional,2465,compra,2582
+Equipos de sonido profesional,2465,venta,1902
+Zapatillas de carga Bluetooth,174,venta,597
+Zapatillas de carga Bluetooth,174,compra,2006
+Zapatillas de carga Bluetooth,174,compra,2482
+Brownie para selfies,1280,compra,1095
+Brownie para selfies,1280,compra,1153
+Estanterías para equipos,1589,compra,1953
+Estanterías para equipos,1589,compra,2019
+Estanterías para equipos,1589,venta,1005
+Estanterías para equipos,1589,compra,367
+Adaptador de corriente,2068,venta,240
+Adaptador de corriente,2068,venta,267
+Adaptador de corriente,2068,compra,1836
+Adaptador de corriente,2068,compra,268
+Adaptador de corriente,2068,compra,2073
+Adaptador de corriente,2068,venta,1980
+Soporte de micrófono,2296,venta,1448
+Soporte de micrófono,2296,compra,1053
+Soporte de micrófono,2296,compra,438
+Control de voz,820,compra,875
+Control de voz,820,compra,736
+Control de voz,820,venta,347
+Control de voz,820,venta,1043
+Microfono de diadema,1155,venta,170
+Microfono de diadema,1155,venta,82
+Microfono de diadema,1155,venta,250
+Microfono de diadema,1155,compra,1177
+Auriculares tipo over-ear,2112,compra,2123
+Auriculares tipo over-ear,2112,compra,1177
+Auriculares tipo over-ear,2112,venta,164
+Giradiscos,2594,compra,2222
+Giradiscos,2594,compra,2439
+Amplificadores de guitarra,702,venta,1044
+Amplificadores de guitarra,702,venta,1537
+Amplificadores de guitarra,702,compra,188
+Amplificadores de guitarra,702,compra,1117
+Amplificadores de guitarra,702,compra,581
+Altavoces de monitoreo,2596,venta,506
+Altavoces de monitoreo,2596,compra,2616
+Altavoces de monitoreo,2596,compra,2598
+Teclados electrónicos,2279,compra,1967
+Teclados electrónicos,2279,venta,491
+Teclados electrónicos,2279,compra,1805
+Teclados electrónicos,2279,compra,2508
+Teclados electrónicos,2279,venta,2569
+Teclados electrónicos,2279,compra,1070
+Teclados electrónicos,2279,venta,1372
+Armónica digital,2138,venta,1239
+Armónica digital,2138,compra,215
+Armónica digital,2138,compra,246
+Controladores de video,2455,compra,373
+Controladores de video,2455,compra,1942
+Controladores de video,2455,venta,31
+Controladores de video,2455,compra,1504
+Dispositivos de grabación,1264,venta,560
+Dispositivos de grabación,1264,venta,140
+Dispositivos de grabación,1264,compra,1300
+Dispositivos de grabación,1264,compra,2367
+Dispositivos de grabación,1264,compra,2161
+Plataformas de streaming,142,venta,663
+Plataformas de streaming,142,compra,2308
+Controladores de vuelo,1242,compra,1032
+Antenas WiFi,84,venta,2138
+Antenas WiFi,84,compra,2034
+Antenas WiFi,84,venta,1815
+Antenas WiFi,84,compra,989
+Antenas WiFi,84,compra,1145
+Antenas WiFi,84,venta,1378
+Antenas WiFi,84,venta,1749
+Antenas WiFi,84,compra,1854
+Antenas WiFi,84,venta,662
+Mesas de mezclas portátiles,410,venta,286
+Mesas de mezclas portátiles,410,compra,1765
+Micrófonos de estudio,2208,venta,2451
+Micrófonos de estudio,2208,venta,189
+Micrófonos de estudio,2208,venta,2171
+Micrófonos de estudio,2208,venta,1760
+Micrófonos de estudio,2208,venta,287
+Alquimia de audio,1037,compra,2249
+Alquimia de audio,1037,venta,678
+Alquimia de audio,1037,venta,2356
+Alquimia de audio,1037,venta,1449
+Accesorios para piano,841,compra,542
+Accesorios para piano,841,compra,1670
+Accesorios para piano,841,compra,815
+Accesorios para piano,841,venta,963
+Accesorios para piano,841,compra,121
+Accesorios para piano,841,compra,2487
+Accesorios para piano,841,compra,1812
+Accesorios para piano,841,compra,2608
+Monitores de campo,2189,compra,1794
+Monitores de campo,2189,venta,2173
+Reproductores de MP3,431,compra,2080
+Reproductores de MP3,431,venta,2158
+Dispositivos de lectura,1508,venta,2210
+Dispositivos de lectura,1508,venta,1788
+Dispositivos de lectura,1508,venta,2466
+Dispositivos de lectura,1508,compra,2196
+Dispositivos de lectura,1508,compra,1818
+Soporte para laptops,1771,venta,1135
+Soporte para laptops,1771,venta,1287
+Soporte para laptops,1771,compra,1893
+Soporte para laptops,1771,venta,537
+Accesorios para tablets,2612,venta,1600
+Accesorios para tablets,2612,compra,2413
+Conectores de audio,491,venta,1241
+Proyectores de video,1404,venta,2172
+Proyectores de video,1404,venta,2073
+Modems de internet,2120,compra,300
+Modems de internet,2120,compra,796
+Modems de internet,2120,compra,1736
+Tablet para dibujar,607,venta,1731
+Tablet para dibujar,607,compra,598
+Tablet para dibujar,607,venta,1194
+Tablet para dibujar,607,compra,2445
+Tablet para dibujar,607,compra,327
+Kits de micrófonos,1846,compra,192
+Kits de micrófonos,1846,venta,2289
+Kits de micrófonos,1846,venta,190
+Kits de micrófonos,1846,venta,2152
+Kits de micrófonos,1846,compra,1986
+Kits de micrófonos,1846,compra,194
+Dispositivos para streaming,2291,compra,923
+Dispositivos para streaming,2291,compra,697
+Dispositivos para streaming,2291,venta,257
+Dispositivos para streaming,2291,compra,977
+Dispositivos para streaming,2291,venta,1083
+Mobiliario para oficina,544,compra,281
+Mobiliario para oficina,544,venta,1961
+Mobiliario para oficina,544,venta,1560
+Mobiliario para oficina,544,compra,2389
+Dispositivos de conferencia,2421,venta,1072
+Dispositivos de conferencia,2421,venta,1231
+Dispositivos de conferencia,2421,compra,1257
+Dispositivos de conferencia,2421,compra,1867
+Grabadoras de audio,2269,venta,1295
+Grabadoras de audio,2269,venta,2275
+Grabadoras de audio,2269,venta,1136
+Controladores de presentación,2342,venta,1822
+Controladores de presentación,2342,venta,865
+Controladores de presentación,2342,venta,523
+Bases de datos musicales,1057,venta,1572
+Bases de datos musicales,1057,venta,2148
+Bases de datos musicales,1057,venta,1361
+Bases de datos musicales,1057,venta,1447
+Bases de datos musicales,1057,compra,770
+Equipos de filmación,966,compra,1445
+Equipos de filmación,966,venta,1018
+Equipos de filmación,966,venta,1227
+Equipos de filmación,966,compra,1211
+Tablets para presentaciones,2152,venta,510
+Estuches para discos duros,456,venta,796
+Estuches para discos duros,456,venta,2176
+Estuches para discos duros,456,compra,369
+Estuches para discos duros,456,compra,1224
+Dispositivos de medición,50,venta,2340
+Apoyabrazos ergonómicos,549,compra,2063
+Apoyabrazos ergonómicos,549,compra,1650
+Apoyabrazos ergonómicos,549,compra,686
+Soportes ergonómicos,681,compra,2384
+Soportes ergonómicos,681,venta,1741
+Soportes ergonómicos,681,venta,1983
+Antenas amplificadoras,2291,compra,1439
+Antenas amplificadoras,2291,venta,2340
+Antenas amplificadoras,2291,venta,2013
+Termómetros digitales,1839,compra,2100
+Termómetros digitales,1839,compra,1402
+Termómetros digitales,1839,compra,2415
+Termómetros digitales,1839,venta,149
+Termómetros digitales,1839,compra,475
+Relojes inteligentes,1526,compra,1371
+Dispositivos de señalización LED,1986,venta,2145
+Dispositivos de señalización LED,1986,venta,908
+Dispositivos de señalización LED,1986,compra,1386
+Dispositivos de señalización LED,1986,venta,2443
+Dispositivos de señalización LED,1986,compra,1542
+Dispositivos de señalización LED,1986,venta,450
+Controles remotos para IF,1695,compra,1425
+Controles remotos para IF,1695,compra,805
+Controles remotos para IF,1695,venta,1199
+Controles remotos para IF,1695,venta,208
+Proyector de tiza,432,compra,1604
+Proyector de tiza,432,compra,2472
+Proyector de tiza,432,compra,1829
+Proyector de tiza,432,venta,1669
+Equipos para conferencias,1074,compra,2163
+Planificadores de actividades,1575,venta,463
+Planificadores de actividades,1575,compra,1754
+Funko Pop personalizados,1178,compra,2282
+Funko Pop personalizados,1178,venta,1887
+Altavoces para móviles,1945,compra,2400
+Altavoces para móviles,1945,venta,1356
+Altavoces para móviles,1945,compra,2406
+Altavoces para móviles,1945,venta,929
+Teléfonos fijos,2592,venta,500
+Teléfonos fijos,2592,compra,802
+Teléfonos fijos,2592,venta,1731
+Teléfonos fijos,2592,venta,1232
+Teléfonos fijos,2592,compra,2456
+Teléfonos fijos,2592,compra,2411
+Teléfonos fijos,2592,compra,479
+Teléfonos fijos,2592,compra,1827
+Consolas retro,887,compra,2357
+Adaptadores de red,1038,compra,1892
+Switches de red,443,compra,2335
+Switches de red,443,venta,1642
+Switches de red,443,venta,1652
+Switches de red,443,venta,2570
+Muflas para audio,1624,compra,1658
+Muflas para audio,1624,compra,87
+Muflas para audio,1624,venta,318
+Cuerdas para instrumentos,1847,venta,860
+Cuerdas para instrumentos,1847,compra,1772
+Cuerdas para instrumentos,1847,venta,1821
+Tarjetas de video,1167,venta,1665
+Tarjetas de video,1167,venta,507
+Tarjetas de video,1167,compra,1227
+Tarjetas de video,1167,compra,1655
+Cortinas de proyección,506,compra,2002
+Cortinas de proyección,506,compra,1817
+Cortinas de proyección,506,venta,2464
+Cortinas de proyección,506,compra,2489
+Lámpara de escenario,1414,venta,432
+Lámpara de escenario,1414,compra,2146
+Lámpara de escenario,1414,venta,2551
+Proyector LED,817,compra,2500
+Proyector LED,817,venta,783
+Soportes para monitores con brazo,2104,venta,2285
+Soportes para monitores con brazo,2104,venta,231
+Soportes para monitores con brazo,2104,venta,367
+Soportes para monitores con brazo,2104,compra,54
+Soportes para monitores con brazo,2104,compra,512
+Monitores de vídeo,2553,venta,123
+Monitores de vídeo,2553,compra,553
+Monitores de vídeo,2553,compra,1016
+Regletas de enchufes,116,venta,1814
+Regletas de enchufes,116,compra,771
+Drones con cámara,2414,venta,1844
+Drones con cámara,2414,venta,2298
+Drones con cámara,2414,compra,236
+Auriculares para celulares,378,venta,66
+Auriculares para celulares,378,compra,794
+Dispositivos de escaneo,2319,compra,135
+Dispositivos de escaneo,2319,venta,1901
+Dispositivos de escaneo,2319,compra,244
+Dispositivos de escaneo,2319,venta,937
+Reproductores de cassette,2461,venta,1604
+Reproductores de cassette,2461,compra,1753
+Proyector de diapositivas,1680,compra,2506
+Proyector de diapositivas,1680,venta,1547
+Proyector de diapositivas,1680,venta,2615
+Proyector de diapositivas,1680,venta,2068
+Proyector de diapositivas,1680,venta,1220
+Proyector de diapositivas,1680,venta,1989
+Proyector de diapositivas,1680,venta,1197
+Proyector de diapositivas,1680,compra,1406
+Base para proyector,285,venta,2296
+Base para proyector,285,venta,1207
+Base para proyector,285,venta,184
+Base para proyector,285,compra,407
+Cables USB,2125,venta,335
+Cables USB,2125,venta,2081
+Cables USB,2125,compra,2044
+Cables USB,2125,compra,2238
+Cables USB,2125,venta,63
+Soportes para proyector,154,compra,1016
+Soportes para proyector,154,venta,2259
+Soportes para proyector,154,compra,1005
+Soportes para proyector,154,compra,305
+Soportes para proyector,154,venta,824
+Soportes para proyector,154,compra,2001
+Herramientas de diseño gráfico,591,compra,2271
+Equipos de transmisión,1899,venta,2584
+Equipos de transmisión,1899,venta,351
+Grabadoras de video portátiles,1637,venta,959
+Grabadoras de video portátiles,1637,compra,2255
+Grabadoras de video portátiles,1637,venta,1823
+Grabadoras de video portátiles,1637,compra,1492
+Televisores inteligentes,51,compra,308
+Televisores inteligentes,51,compra,1072
+Televisores inteligentes,51,compra,107
+Televisores inteligentes,51,venta,211
+Cargadores de repuesto,1486,compra,1471
+Soundbars,1652,venta,1072
+Soundbars,1652,venta,341
+Estudio de grabación,875,venta,1681
+Estudio de grabación,875,venta,2120
+Estudio de grabación,875,venta,1569
+Estudio de grabación,875,venta,1607
+Estudio de grabación,875,venta,500
