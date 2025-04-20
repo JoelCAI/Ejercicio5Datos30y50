@@ -1,0 +1,119 @@
+producto_ID,nombre_producto,categoria,precio,stock,fecha de ingreso
+23,Acelga,Verdura,$55.75,272,19/12/2024
+98,ACELGA,VERDURA,$39.52,134,20/12/2024
+20,Aguacate,Fruta,$48.29,52,28/12/2024
+33,Ajo,Verdura,$31.04,263,16/12/2024
+43,Albahaca,Verdura,$42.54,181,16/12/2024
+43,Albahaca,Verdura,$42.54,181,16/12/2024
+64,Alcachofa,Verdura,$28.84,50,2/12/2024
+77,almedra,fruta,$30.89,273,4/12/2024
+68,Anguila,Verdura,$50.18,91,21/12/2024
+39,Apio,Verdura,$37.37,104,3/12/2024
+79,apio,verdura,$42.82,240,26/12/2024
+96,ARÁNDANO,FRUTA,$24.67,175,21/12/2024
+73,Azufaifo,Fruta,$54.12,124,24/12/2024
+3,Banana,Fruta,$49.39,130,10/12/2024
+34,Batata,Verdura,$48.86,142,19/12/2024
+45,Berenjena,Verdura,$27.93,193,21/12/2024
+45,Berenjena,Verdura,$27.93,193,21/12/2024
+40,Berro,Verdura,$43.58,254,17/12/2024
+40,Berro,Verdura,$43.58,254,17/12/2024
+28,Betabel,Verdura,$27.69,176,29/12/2024
+25,Brócoli,Verdura,$55.80,296,18/12/2024
+65,Calabacín,Verdura,$44.79,142,5/12/2024
+35,Calabaza,Verdura,$32.49,136,28/12/2024
+50,Castaña,Verdura,$31.42,206,10/12/2024
+97,CASTAÑAS DE CAJÚ,FRUTA,$46.70,290,21/12/2024
+32,Cebolla,Verdura,,151,15/12/2024
+95,CEBOLLA DE VERDEO,VERDURA,$36.20,208,22/12/2024
+61,Cebollín,Verdura,$54.01,34,29/12/2024
+54,CEREZA,FRUTA,$45.98,238,16/12/2024
+54,CEREZA,FRUTA,$45.98,238,16/12/2024
+56,CHERIMOYA,FRUTA,$24.16,207,14/12/2024
+56,CHERIMOYA,FRUTA,$24.16,207,14/12/2024
+91,Chirimoya,Fruta,$26.88,128,11/12/2024
+36,Choclo,Verdura,$23.17,298,1/12/2024
+42,Cilantro,Verdura,$43.27,21,12/12/2024
+42,Cilantro,Verdura,$43.27,21,12/12/2024
+10,Ciruela,Fruta,$34.59,13,14/12/2024
+10,Ciruela,Fruta,$34.59,13,14/12/2024
+15,Coco,Fruta,$29.84,127,18/12/2024
+26,Coliflor,Verdura,$28.31,562,1/12/2024
+9,Durazno,Fruta,$26.16,70,13/12/2024
+9,Durazno,Fruta,$26.16,70,13/12/2024
+48,Esparrago,Verdura,$28.21,246,12/12/2024
+63,Espárrago,Verdura,$50.57,154,6/12/2024
+22,Espinaca,Verdura,$34.90,145,3/12/2024
+17,Frambuesa,Fruta,$31.19,125,5/12/2024
+13,Fresa,Fruta,$26.65,279,13/12/2024
+19,Fruta de la pasión,Fruta,$39.39,67,29/12/2024
+51,Fruta de la pasión,Fruta,$29.40,265,16/12/2024
+51,Fruta de la pasión,Fruta,$29.40,265,16/12/2024
+16,Granada,Fruta,$31.40,70,30/12/2024
+57,GUAYABA,FRUTA,$43.06,49,25/12/2024
+38,Guisante,Verdura,$49.90,257,20/12/2024
+67,Guisante,Verdura,$45.67,164,10/12/2024
+80,guisante verde,verdura,$29.98,75,1/12/2024
+18,Higo,Fruta,$30.28,180,27/12/2024
+87,Higo,Fruta,$50.70,155,13/12/2024
+44,Hinojo,Verdura,$40.36,22,20/12/2024
+44,Hinojo,Verdura,$40.36,22,20/12/2024
+75,hinojo,verdura,$55.43,296,23/12/2024
+47,Hongos,Verdura,$29.33,241,15/12/2024
+94,HORTALIZAS,VERDURA,$55.87,243,29/12/2024
+88,Jengibre,Verdura,$39.57,284,5/12/2024
+66,Judía verde,Verdura,$29.27,62,19/12/2024
+72,Jugo de arándano,Fruta,$28.61,108,7/12/2024
+59,Kale,Verdura,$37.94,275,4/12/2024
+12,Kiwi,Fruta,,89,30/12/2024
+12,Kiwi,Fruta,,89,30/12/2024
+21,Lechuga,Verdura,$53.58,117,10/12/2024
+76,lenteja,verdura,$27.42,161,21/12/2024
+52,Lima,Fruta,$44.04,179,18/12/2024
+52,Lima,Fruta,$44.04,179,18/12/2024
+71,Lima de limón,Fruta,$29.56,107,27/12/2024
+5,Limón,Fruta,$46.71,84,18/12/2024
+89,Limonada,Fruta,$45.81,11,7/12/2024
+92,Malva,Verdura,$32.23,189,14/12/2024
+53,Mandarina,Fruta,$32.45,62,9/12/2024
+53,Mandarina,Fruta,$32.45,62,9/12/2024
+1,Manzana,Fruta,$49.32,74,19/12/2024
+81,melocotón,fruta,$27.42,51,9/12/2024
+7,Melón,Fruta,$44.95,42,8/12/2024
+7,Melón,Fruta,$44.95,42,8/12/2024
+14,Mora,Fruta,$44.37,36,20/12/2024
+49,Nabo,Verdura,$44.57,126,9/12/2024
+84,Napa,Verdura,$44.41,206,10/12/2024
+4,Naranja,Fruta,$28.33,249,30/12/2024
+85,Okra,Verdura,,199,13/12/2024
+69,Orégano,Verdura,$38.20,214,24/12/2024
+86,Papas,Verdura,$54.26,206,20/12/2024
+8,Papaya,Fruta,$26.62,41,22/12/2024
+8,Papaya,Fruta,$26.62,41,22/12/2024
+31,Pepino,Verdura,$50.73,189,30/12/2024
+2,Pera,Fruta,,91,24/12/2024
+41,Perejil,Verdura,$40.09,131,8/12/2024
+41,Perejil,Verdura,$40.09,131,8/12/2024
+100,PIMIENTA,VERDURA,$33.21,134,9/12/2024
+29,Pimiento,Verdura,$39.51,105,20/12/2024
+62,Pimiento morrón,Verdura,$23.27,251,15/12/2024
+55,POMELO,FRUTA,$36.44,20,14/12/2024
+55,POMELO,FRUTA,$36.44,20,14/12/2024
+46,Puerro,Verdura,$41.71,200,8/12/2024
+37,Rabanito,Verdura,$42.78,117,18/12/2024
+58,Remolacha,Verdura,$36.32,39,8/12/2024
+24,Repollo,Verdura,$44.71,99,5/12/2024
+60,Rúcula,Verdura,$42.71,100,30/12/2024
+99,RÚCULA,VERDURA,$55.35,3,9/12/2024
+6,Sandía,Fruta,$30.85,128,26/12/2024
+82,seguridad,verdura,$25.75,26,13/12/2024
+74,sugo de tomate,verdura,$42.36,239,14/12/2024
+83,taro,verdura,$23.28,213,25/12/2024
+90,Tofu,Verdura,,55,22/12/2024
+30,Tomate,Verdura,$50.70,84,21/12/2024
+70,Tomate cherry,Verdura,$35.07,21,28/12/2024
+11,Uva,Fruta,$29.79,138,23/12/2024
+11,Uva,Fruta,$29.79,138,23/12/2024
+93,UVA PASA,FRUTA,$31.22,174,22/12/2024
+78,yuca,verdura,$25.35,241,18/12/2024
+27,Zanahoria,Verdura,$25.86,66,22/12/2024
